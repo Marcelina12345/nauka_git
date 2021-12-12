@@ -39,3 +39,4 @@ def
 ## wprowadzenie trzeciej zmiany
 # wprowadzanie czwartej zmiany
 import
+# zima zima zima pada pada snieg
