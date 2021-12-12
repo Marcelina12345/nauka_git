@@ -35,10 +35,8 @@ Please make sure to update tests as appropriate.
 
 def funkcja()
 def
-## Marcelina
+
 ## wprowadzenie trzeciej zmiany
 # wprowadzanie czwartej zmiany
 import
-
-# lalalal
-please 
+# cos tam
