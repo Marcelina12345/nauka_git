@@ -40,3 +40,4 @@ def
 # wprowadzanie czwartej zmiany
 import
 # cos tam
+# modyfikacja README w przegladarce
